@@ -8,4 +8,8 @@ public class PersonController {
     public void add(){
         System.out.println("add member");
     }
+
+    public void get(){
+        System.out.println("get all");
+    }
 }
