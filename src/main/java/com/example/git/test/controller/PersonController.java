@@ -12,4 +12,9 @@ public class PersonController {
     public void get(){
         System.out.println("get all");
     }
+
+
+    public void getAll(){
+        System.out.println("get all");
+    }
 }
